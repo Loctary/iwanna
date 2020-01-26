@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7615cb796b26eb313e720f7cbb1a3629",
+    "revision": "f734cbe4e9ff81d51c357390e06cd44b",
     "url": "/iwanna/index.html"
   },
   {
-    "revision": "09e5aa2986fbceffc22d",
+    "revision": "15e5f3552b2650b15833",
     "url": "/iwanna/static/css/main.5c33c966.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iwanna/static/js/2.5c5911bd.chunk.js.LICENSE"
   },
   {
-    "revision": "09e5aa2986fbceffc22d",
-    "url": "/iwanna/static/js/main.4a3cd12c.chunk.js"
+    "revision": "15e5f3552b2650b15833",
+    "url": "/iwanna/static/js/main.92b52903.chunk.js"
   },
   {
     "revision": "751c01e604fe12a392a9",
