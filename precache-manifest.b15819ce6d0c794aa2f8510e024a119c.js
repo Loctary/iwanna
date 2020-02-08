@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9243c2cda1ee620c87845657e53afeba",
+    "revision": "3d6882d1fdc87bb61e17a658f8ba3e66",
     "url": "/iwanna/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iwanna/static/css/2.7059d6b5.chunk.css"
   },
   {
-    "revision": "22b82c346c755d399e05",
-    "url": "/iwanna/static/css/main.6f4867dd.chunk.css"
+    "revision": "ceef5314fae1aa1e12ad",
+    "url": "/iwanna/static/css/main.3b013caa.chunk.css"
   },
   {
     "revision": "6b3a32d4c65b94d3ab4e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iwanna/static/js/2.cb23d9ad.chunk.js.LICENSE"
   },
   {
-    "revision": "22b82c346c755d399e05",
-    "url": "/iwanna/static/js/main.a5618828.chunk.js"
+    "revision": "ceef5314fae1aa1e12ad",
+    "url": "/iwanna/static/js/main.f0381b27.chunk.js"
   },
   {
     "revision": "751c01e604fe12a392a9",
